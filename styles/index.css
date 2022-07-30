@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  width: 100%;
+  height: 100%;
+  
+  
+}
+html{
+  width: 100%;
+  height: 100%;
+  
+}
+.container {
+  width: 100%;
+  height: 100%;
+    display: flex;
+    justify-content: center;
+    background-color:white;
+    align-items: center;
+    
+    
+  
+  }
+.container-form{
+    display:flex ;
+    flex-direction:column ;
+    
+    
+    
+
+    
+  }
+
+  .container-form div{
+    margin: 30px;
+    
+  }
+.divBtn{
+  justify-content: center; 
+  display: flex;
+}
